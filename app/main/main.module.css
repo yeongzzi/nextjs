@@ -1,0 +1,9 @@
+.main {}
+.main ul {display: flex; justify-content: space-between;}
+.main ul li {
+    width: 23%; height: 200px;
+    padding: 20px; 
+    box-sizing: border-box; 
+    border: 1px solid #000;     
+}
+.main ul li h3 {font-size: 25px;}
